@@ -132,3 +132,8 @@
   color: #64748b;
 }
 
+<style>
+.reveal ul li {
+  margin-bottom: 30px;
+}
+</style>
